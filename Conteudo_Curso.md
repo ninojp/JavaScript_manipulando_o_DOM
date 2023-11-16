@@ -123,3 +123,23 @@ Criamos funções para manipular elementos no DOM com data-attributes.
 ## Aula 05 - Calculando o Poder
 
 ### Aula 05 - Interagindo com objetos - Video 1
+
+Nesta aula, o instrutor discute a atualização das estatísticas de um robô chamado Robotron. Ele mostra como navegar pelo objeto "pecas" no console do navegador e como acessar os valores de cada item. Além disso, ele explica como adicionar novos datasets e atributos de dados no HTML para tornar a busca de dados dinâmica. No próximo vídeo, eles irão discutir como chamar uma nova função ao clicar em um dos itens e atualizar as estatísticas do robô.
+
+### Aula 05 - Cálculos dinâmicos - Video 2
+
+Nesta aula, o instrutor discute a implementação de um código para atualizar estatísticas de um robô a cada clique em um elemento. São abordados temas como busca de elementos, atualização de estatísticas, navegação em objetos, uso do método forEach() e conversão de texto para número. Ao final, é mencionado que a primeira parte do projeto está concluída e o próximo vídeo abordará a possibilidade de colocar o projeto para rodar na internet.
+
+### Aula 05 - Compartilhando com o mundo - Video 3
+
+Nesta aula, o instrutor discute sobre a publicação de um site chamado Robotron 2000, que será utilizado para ajudar na defesa contra um ataque alienígena. Ele explica o processo de deploy passo a passo, utilizando a plataforma Vercel. Após o deploy, destaca a importância de publicar o site no LinkedIn como forma de documentar o portfólio e mostrar o crescimento profissional. Sugere adicionar um print do projeto e escrever um texto incentivando outras pessoas a montarem seus próprios robôs. Também menciona a possibilidade de marcar seu perfil no LinkedIn e utilizar a hashtag #AprendiNaAlura para compartilhar o progresso e inspirar outras pessoas.
+
+### Aula 05 Conclusão - Nesta aula
+
+Definimos o que são objetos e analisamos métodos para manipulá-los;
+Refatoramos o código do projeto, aprendendo como manipular arrays e utilizando forEach;
+Aprendemos como aplicar projetos na nuvem utilizando vercel e github.
+
+### Aula 05 Conclusão - Video 4
+
+Nesta aula, o instrutor parabeniza os alunos por concluírem o primeiro módulo do curso de JavaScript para Front-End. Ele destaca que os alunos aprenderam a buscar elementos na página, interagir com eles e manipular eventos de clique. Além disso, os alunos aprenderam a fazer operações e funções em JavaScript, entenderam o uso de funções anônimas e arrow functions, e também mexeram com os atributos do Dataset. O instrutor menciona que o próximo módulo abordará a produção de um robô e temas como validação, formulário e evolução do conhecimento. Ele convida os alunos a avaliarem o curso e publicarem o projeto em seus portfólios.

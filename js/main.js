@@ -23,6 +23,8 @@
 //==========================================================================
 
 const controle = document.querySelectorAll("[data-controle]");
+const estatisticas = document.querySelectorAll("[data-estatisticas]");
+
 const pecas = {
     "bracos": {
         "forca": 29,
@@ -59,12 +61,12 @@ const pecas = {
 controle.forEach((elemento)=>{
     elemento.addEventListener("click", (evento)=>{
         manipularDados(evento.target.dataset.controle, evento.target.parentNode);
+        atualizaEstatisticas(evento.target.dataset.peca);
     });
 });
 
 // somarElem.addEventListener("click", ()=>{ manipularDados("somarElem"); });
 // subtrairElem.addEventListener("click", ()=>{ manipularDados("subtrairElem"); });
-
 function manipularDados(operacao, controle){
     const pecaElem = controle.querySelector("[data-contador]");
     if(operacao === "-"){
@@ -72,4 +74,14 @@ function manipularDados(operacao, controle){
     }else{
         pecaElem.value = parseInt(pecaElem.value) +1;
     }
-}
+};
+
+function atualizaEstatisticas(peca){
+    estatisticas.forEach((elemento)=>{
+        elemento.textContent =  parseInt(elemento.textContent) +pecas[peca][elemento.dataset.estatisticas]
+    })
+};
+
+function trocaImagem(cor){
+    document.querySelector(".robo").src="img/Robotron 2000 - " + cor + ".png";
+ }
