@@ -58,3 +58,20 @@ Aprendemos como manipular elementos no DOM.
 
 ### Aula 02 - Eventos com JavaScript - Video 1
 
+Nesta aula, o instrutor abordou como interagir com uma página web usando JavaScript. Ele mostrou como criar um alerta usando o console e como adicionar interatividade a um elemento HTML usando o atributo onclick. O instrutor também explicou a importância de separar o código JavaScript do HTML, mostrando como criar um arquivo JavaScript separado e vinculá-lo ao arquivo HTML. Ele também ensinou como adicionar eventos de clique a elementos usando a função addEventListener e como armazenar elementos HTML em variáveis usando o método document.querySelector. Por fim, o instrutor resumiu os conceitos abordados e mencionou que explorará mais funções do JavaScript no próximo vídeo.
+
+### Aula 02 - Funções com JavaScript - Video 2
+
+Nesta aula, o professor abordou o conceito de funções em JavaScript e sua importância na programação. Ele explicou que uma função é uma forma de armazenar um bloco de código que pode ser repetido várias vezes, permitindo a reutilização do mesmo código. O professor apresentou exemplos de funções nomeadas, anônimas e arrow functions, mostrando como chamá-las e passar parâmetros. Além disso, ele destacou a importância da manipulação de eventos em JavaScript, mostrando como manipular o evento de clique em um elemento da página e como acessar informações sobre esse evento. O próximo vídeo abordará a manipulação de eventos em um formulário de peças.
+
+### Aula 02 Conclusão - Nessa aula
+
+Aprendemos a selecionar um ou mais elementos com querySelector()/querySelectorAll();
+Aprendemos como utilizar o método addEventListener();
+Definimos as diferenças entre função anônima e função;
+Entendemos o comportamento de hoisting no JavaScript;
+
+## Aula 03 - Montando uma peça
+
+### Aula 03 - Alterando um item na página - Video 1
+
