@@ -95,3 +95,31 @@ Como utilizar o método splice() para remover itens.
 
 ### Aula 04 - Alterando o elemento - Video 1
 
+Nesta aula, o instrutor discute a implementação de um componente de calculadora dinâmica para o Robotroon 2000. Ele mostra como navegar pela árvore do HTML usando JavaScript e explica como tornar o código mais genérico e robusto. O instrutor também menciona a próxima etapa, que é a utilização de Data Attributes para tornar o código ainda mais flexível e adaptável.
+
+### Aula 04 - Código à prova de falhas - Video 2
+
+Nesta aula, o instrutor discute a implementação de um código dinâmico para o montador de robôs. Ele utiliza os atributos de dados para manipular os elementos HTML no JavaScript. O instrutor mostra como criar e utilizar os atributos de dados "data-controle" e "data-contador" para atualizar os valores dos elementos. Ele também menciona que na próxima aula será abordado como um elemento manipulado pode alterar um grupo de elementos.
+
+### Aula 04 - Para saber mais: data-attribute
+
+Data-attributes são utilizados para guardar valores em elementos HTML. Esses valores podem ser manipulados através do JavaScript. Também é possível estilizar elementos HTML com CSS referenciando o seu data-attribute. Essa funcionalidade é bem recente no mundo do desenvolvimento, sendo lançada na última versão do HTML(HTML5).
+
+Data-attributes não devem ser utilizados para dados visíveis, pois tecnologias de acessibilidade podem não identificar seus valores.
+
+Sua estrutura é dividida em duas partes:
+
+A primeira parte é o identificador deste dado, que consiste em data- + o nome de sua escolha que melhor identifica o tipo de dado a ser atribuído.
+A segunda parte é o valor atribuído à este data-attribute, este valor deve sempre estar entre aspas “”, e dessa maneira é lido como uma string.
+
+> O prefixo data- não é obrigatório para definir um data-attribute personalizado
+
+### Aula 04 - Nessa aula
+
+Aprendemos como utilizar a propriedade parentNode;
+Definimos o que é data-attributes;
+Criamos funções para manipular elementos no DOM com data-attributes.
+
+## Aula 05 - Calculando o Poder
+
+### Aula 05 - Interagindo com objetos - Video 1
