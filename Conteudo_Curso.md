@@ -75,3 +75,23 @@ Entendemos o comportamento de hoisting no JavaScript;
 
 ### Aula 03 - Alterando um item na página - Video 1
 
+Nesta aula, o instrutor ensina como adicionar e subtrair braços em um robô chamado Robotron. Ele mostra a estrutura do HTML, onde temos botões e um input para exibir a quantidade de braços. O instrutor utiliza JavaScript para identificar esses elementos e cria variáveis para representá-los. Ele adiciona eventos de clique nos botões e incrementa ou decrementa o valor do input de braços. O instrutor também explica a necessidade de converter o valor do input para um número utilizando a função parseInt. No próximo vídeo, ele promete ensinar como melhorar essa função para deixar o código mais dinâmico.
+
+### Aula 03 - Reaproveitando código - Video 2
+
+Nesta aula, o professor apresentou um código capaz de adicionar e subtrair itens de um montador de robôs. Ele explicou a importância de validar se o valor do braço do robô é negativo, pois um robô não pode ter braços negativos para batalhar. Em seguida, o professor mostrou como reutilizar o código utilizando uma função chamada manipulaDados(), que recebe um parâmetro chamado operacao. Dentro dessa função, ele verifica se a operação é "subtrair" e, nesse caso, subtrai 1 do valor do braço. Caso contrário, ele soma 1 ao valor do braço. Com essa nova função, toda a lógica de manipulação dos dados é centralizada em um único lugar. O professor também mencionou a possibilidade de somar e subtrair todos os elementos utilizando a classe "controle-ajuste" no HTML, mas deixou claro que a manipulação desses elementos será abordada no próximo vídeo.
+
+### Aula 03 - Alterando vários componentes - Video 3
+
+Nesta aula, o instrutor explica como adicionar um escutador de eventos em cada controle de um array. Ele destaca a função forEach() do Array como uma forma mais simples de iterar sobre o array. O instrutor mostra como utilizar o console.log() para verificar qual elemento foi clicado e como acessar o evento do clique e o elemento clicado utilizando a propriedade target. Ele também mostra como verificar o conteúdo do elemento utilizando a propriedade textContent. Por fim, o instrutor refatora o código para chamar a função manipulaDados() passando como parâmetro o texto "somar" ou "subtrair" com base no conteúdo do elemento clicado.
+
+### Aula 03 Conclusão - Nessa aula
+
+Definimos o que é Array e como manipular seus objetos;
+Como utilizar arrow functions;
+Como utilizar o método splice() para remover itens.
+
+## Aula 04 - Montando um Robô
+
+### Aula 04 - Alterando o elemento - Video 1
+
